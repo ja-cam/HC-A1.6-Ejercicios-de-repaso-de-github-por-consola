@@ -1,12 +1,15 @@
 h1 {
 background-color: navy;
-color: lightsalmon 
+color: lightsalmon ;
 }
+
 p{
 background-color: grey;
-color: white
+color: white;
+font-size: 20px;
 }
+
 img{
-height="200"
-width="50%"
+height: 200px;
+width: 50%;
 }
